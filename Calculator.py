@@ -1,5 +1,5 @@
 #master
-123123123
+
 #示範Git用的程式碼！
 
 def add(a, b):
